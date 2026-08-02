@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://joaojosedasilva111.github.io/Cipriano---Memorial/sitemap.xml
