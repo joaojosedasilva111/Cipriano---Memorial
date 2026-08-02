@@ -1,19 +1,15 @@
 {
-  "date": "2026-08-02T12:24:44.244Z",
+  "date": "2026-08-02T12:54:41.378Z",
   "version": "10.1",
   "publicUrl": "https://joaojosedasilva111.github.io/Cipriano---Memorial/",
   "success": true,
   "errors": [],
-  "warnings": [
-    "O Espaço Cultural Casa 11: foto 6 sem legenda.",
-    "O Espaço Cultural Casa 11: foto 7 sem legenda.",
-    "O Espaço Cultural Casa 11: foto 8 sem legenda."
-  ],
+  "warnings": [],
   "info": [
     "Páginas/conteúdos: 87",
     "Capítulos de A História: 47",
     "Itens da Galeria: 33",
-    "Fotografias: 196",
+    "Fotografias: 193",
     "Vídeos válidos: 2"
   ]
 }
