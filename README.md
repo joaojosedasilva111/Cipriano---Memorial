@@ -9,3 +9,6 @@ Site: https://joaojosedasilva111.github.io/Cipriano---Memorial/
 Copie o conteúdo desta pasta para a raiz do repositório GitHub Pages. Depois faça Commit e Push pelo GitHub Desktop.
 
 Não é necessário publicar a pasta do editor.
+
+
+Atualização de publicação: 08/08/2026
